@@ -1,0 +1,6 @@
+{
+  "name": "PantauHadir",
+  "description": "PantauHadir: Sistem Analitik & Intelligence Absensi berbasis data fingerprint logistik dengan analisis pola keterlambatan, anomali, dan evaluasi berbasis DSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
